@@ -27,9 +27,9 @@ This solution enhances **efficiency, accuracy, and scalability** in loan servici
 ---
 
 ## 🎥 **Demo**  
-📹 **[Project Demo](https://drive.google.com/file/d/1kW4pSn6t2D-rGK0b4ryxmpibqYCnoFzx/view?usp=sharing)** 
+📹 **[Click for Project Demo](https://drive.google.com/file/d/1kW4pSn6t2D-rGK0b4ryxmpibqYCnoFzx/view?usp=sharing)** 
 
-📹 **[Code Walkthrough](https://drive.google.com/file/d/16OPnANrlMc45v09_7X8CcIf0Bd33JjUH/view?usp=sharing)** 
+📹 **[Click for Code Walkthrough](https://drive.google.com/file/d/16OPnANrlMc45v09_7X8CcIf0Bd33JjUH/view?usp=sharing)** 
 
 
 🖼️ **Screenshots:** 
@@ -83,7 +83,7 @@ We leveraged **cutting-edge AI, NLP, and automation tools** to develop this syst
 🔹 **Technologies Used:**  
 - **AI Models:** Google Gemini, langchain_google_genai
 - **OCR & Data Extraction:** Pytesseract, pdf2image, python-docx  
-- **Email Processing:** `email.parser`, MIME handling libraries  
+- **Email Processing:** email.parser, MIME handling libraries  
 - **Duplicate Detection:** eml.parser, hashing
 - **Data Processing:** pydantic, langchain, json
 - **UI:** Streamlit  
@@ -168,7 +168,7 @@ Through **iterative improvements and AI-powered automation**, we built a **scala
 ## 🏗️ **Tech Stack**
 - **AI Models:** Google Gemini, langchain_google_genai
 - **OCR & Data Extraction:** Pytesseract, pdf2image, python-docx  
-- **Email Processing:** `email.parser`, MIME handling libraries  
+- **Email Processing:** email.parser, MIME handling libraries  
 - **Duplicate Detection:** eml.parser, hashing
 - **Data Processing:** pydantic, langchain, json
 - **UI:** Streamlit
